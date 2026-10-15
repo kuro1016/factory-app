@@ -1,0 +1,13 @@
+{
+  "appId": "io.github.kuro1016.factory",
+  "appName": "生产管理",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "url": "https://kuro1016.github.io/factory-production/"
+  },
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#0f172a"
+  }
+}
