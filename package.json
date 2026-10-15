@@ -1,0 +1,14 @@
+{
+  "name": "factory-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "嘉郁新材料 生产计件工资管理系统 原生App",
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.2",
+    "@capacitor/cli": "^6.2.2",
+    "@capacitor/core": "^6.2.2"
+  }
+}
